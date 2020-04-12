@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0299D20B-5C17-4374-98D6-C96E87F4A301}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FunctionAppCICD/FunctionAppCICD.cs">
+    <Files>
+      <File FileName="FunctionAppCICD/FunctionAppCICD.cs" Line="29" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FunctionAppCICD" expanded="True">
+            <Node name="FunctionAppCICD" expanded="True">
+              <Node name="FunctionAppCICD.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FunctionAppCICD PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
